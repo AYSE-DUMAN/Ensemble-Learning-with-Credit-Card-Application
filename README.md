@@ -1,0 +1,2 @@
+# Ensemble-Learning-with-Credit-Card-Application
+In this study, the credit card operation dataset was used where the original dataset in the UCI Machine Learning Repository is available. The aim of the analyze is predict whether or not a given customer should be approved for their credit application. I am dealing with six different ensemble learning techniques such as Averaging, Weighted Averaging, Max Voting, Bagging, Boosting, Stacking.  Explanations of the applied techniques have been made. While using these methods, Packt course was used for the necessary definitions.
