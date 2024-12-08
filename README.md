@@ -1,4 +1,4 @@
-# Ensemble Learning with Credit Card Application
+# Ensemble Learning with Credit Card Application 
 
 In this project, the **Credit Card Application Dataset** from the UCI Machine Learning Repository is used to predict whether a given customer should be approved for a credit application. The goal is to apply different **ensemble learning techniques** to improve the accuracy of predictions compared to single machine learning models.
 
